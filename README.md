@@ -13,16 +13,9 @@ los dispositivos.
 1. Estructura de las carpetas.
 2. Fases del desarrollo.
 3. Arquitecturas utilizadas
-4. [Proceso](#Proceso)
-7. [Agradecimientos](#Agradecimientos)
-
 
 
 # Estructura de las carpetas
-
-  ### **venv/:** 
-  Este directorio contiene el entorno virtual de Python. Es utilizado para aislar las dependencias del
-  proyecto y asegurarse de que no haya conflictos con otras versiones de paquetes instalados globalmente en el sistema.
 
   ### **Data/:** 
   En este directorio se almacenan los datos necesarios para el funcionamiento del chatbot.
